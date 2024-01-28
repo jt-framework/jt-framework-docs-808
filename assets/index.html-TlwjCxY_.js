@@ -1,0 +1,1 @@
+import{_ as n}from"./plugin-vue_export-helper-x3n3nnut.js";import{o as t,c as o,b as e}from"./app-cuoTE0Qt.js";const s={},c=e("h1",{id:"extension",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#extension"},[e("span",null,"Extension")])],-1),a=[c];function r(_,i){return t(),o("div",null,a)}const f=n(s,[["render",r],["__file","index.html.vue"]]);export{f as default};

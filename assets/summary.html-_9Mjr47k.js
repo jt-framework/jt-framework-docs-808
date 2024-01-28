@@ -1,0 +1,1 @@
+import{_ as s}from"./plugin-vue_export-helper-x3n3nnut.js";import{o as t,c as a,b as e}from"./app-cuoTE0Qt.js";const o={},r=e("h1",{id:"小节",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#小节"},[e("span",null,"小节")])],-1),c=[r];function n(_,l){return t(),a("div",null,c)}const i=s(o,[["render",n],["__file","summary.html.vue"]]);export{i as default};

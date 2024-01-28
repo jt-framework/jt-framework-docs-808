@@ -1,0 +1,1 @@
+import{_ as t}from"./plugin-vue_export-helper-x3n3nnut.js";import{o as n,c as o,b as e}from"./app-cuoTE0Qt.js";const c={},s=e("h1",{id:"注解驱动开发",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#注解驱动开发"},[e("span",null,"注解驱动开发")])],-1),a=[s];function r(_,d){return n(),o("div",null,a)}const f=t(c,[["render",r],["__file","index.html.vue"]]);export{f as default};
